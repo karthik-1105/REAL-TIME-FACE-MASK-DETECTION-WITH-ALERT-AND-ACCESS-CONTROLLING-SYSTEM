@@ -26,6 +26,9 @@ This system can therefore be used in real-time applications which require face-m
 ## :bulb: Working and ## :key: Results
 
 
+
+![](https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/11.png)
+
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/11.png" ></p>
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/22.png" ></p>
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/33.png" ></p>
