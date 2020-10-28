@@ -7,6 +7,12 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/mask.PNG" ></p>
+
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/no_mask.PNG" ></p>
+
 ![Live Demo](https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/Demo.gif)
 
 ## :warning: TechStack/framework used
@@ -24,6 +30,10 @@ This system can therefore be used in real-time applications which require face-m
 
 
 ## :bulb: Working and ## :key: Results
+
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/mask1.PNG" ></p>
+
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/no_mask1.PNG" ></p>
 
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/11.png" ></p>
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/22.png" ></p>
