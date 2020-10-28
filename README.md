@@ -26,16 +26,16 @@ This system can therefore be used in real-time applications which require face-m
 ## :bulb: Working and ## :key: Results
 
 
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/11.png" width="700" height="400"></p>
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/22.png" width="700" height="400"></p>
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/33.png" width="700" height="400"></p>
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/44.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/11.png" ></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/22.png" ></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/33.png" ></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/44.png" ></p>
 
 
 #### Our model gave 91% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/6.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/6.png" ></p>
 
 #### We got the following accuracy/loss training curve plot
 
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/plot.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/plot.png" ></p>
