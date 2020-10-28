@@ -32,7 +32,7 @@ This system can therefore be used in real-time applications which require face-m
 
 #### Our model gave 91% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/1.png" ></p>
+<p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/1.PNG" ></p>
 
 
 #### We got the following accuracy/loss training curve plot
