@@ -25,7 +25,14 @@ This system can therefore be used in real-time applications which require face-m
 
 ## :bulb: Working and ## :key: Results
 
+<p align="center">
+  <img src="11.PNG">
+</p>
+<p align="center">Upload Images</p>
 
+<p align="center">
+  <img src="12.PNG">
+</p>
 
 ![Alt text](https://github.com/karthik-1105/REAL-TIME-FACE-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/11.png)
 
