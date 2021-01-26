@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://github.com/karthik-1105/REAL-TIME-FACE-MASK-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/no_mask1.PNG" ></p>
 
-![Live Demo](https://github.com/karthik-1105/REAL-TIME-FACE-MASK-DETECTION-WITH-ALERT-AND-ACCESS-CONTROLLING-SYSTEM/blob/master/Demo.gif)
+
 
 ## :warning: TechStack/framework used
 
